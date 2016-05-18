@@ -1,0 +1,9 @@
+C:\Users\Nelson\Desktop\ShopAtHomeAutomation\ShopAtHomeAutomation\ShopAtHomeTest\bin\Debug\ShopAtHomeTest.dll
+C:\Users\Nelson\Desktop\ShopAtHomeAutomation\ShopAtHomeAutomation\ShopAtHomeTest\bin\Debug\ShopAtHomeTest.pdb
+C:\Users\Nelson\Desktop\ShopAtHomeAutomation\ShopAtHomeAutomation\ShopAtHomeTest\bin\Debug\ShopAtHomeAutomation.dll
+C:\Users\Nelson\Desktop\ShopAtHomeAutomation\ShopAtHomeAutomation\ShopAtHomeTest\bin\Debug\WebDriver.dll
+C:\Users\Nelson\Desktop\ShopAtHomeAutomation\ShopAtHomeAutomation\ShopAtHomeTest\bin\Debug\ShopAtHomeAutomation.pdb
+C:\Users\Nelson\Desktop\ShopAtHomeAutomation\ShopAtHomeAutomation\ShopAtHomeTest\bin\Debug\WebDriver.xml
+C:\Users\Nelson\Desktop\ShopAtHomeAutomation\ShopAtHomeAutomation\ShopAtHomeTest\obj\Debug\ShopAtHomeTest.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\ShopAtHomeAutomation\ShopAtHomeAutomation\ShopAtHomeTest\obj\Debug\ShopAtHomeTest.dll
+C:\Users\Nelson\Desktop\ShopAtHomeAutomation\ShopAtHomeAutomation\ShopAtHomeTest\obj\Debug\ShopAtHomeTest.pdb
